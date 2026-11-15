@@ -20,3 +20,5 @@ ehthumbs_vista.db
 *.tmp
 
 index-backup-*.html
+
+*.zip
