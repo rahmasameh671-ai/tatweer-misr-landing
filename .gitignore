@@ -18,3 +18,5 @@ ehthumbs_vista.db
 # Logs & Temp
 *.log
 *.tmp
+
+index-backup-*.html
